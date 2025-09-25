@@ -1,0 +1,94 @@
+{
+  "query": "What is the current status of H1B visa in 2025?",
+  "depth": "shallow",
+  "subquestions": [
+    {
+      "id": "Q1",
+      "category": "policy",
+      "text": "H1B visa quotas 2025?",
+      "priority": "high",
+      "search_keywords": [
+        "H1B visa",
+        "quota",
+        "2025",
+        "cap"
+      ]
+    },
+    {
+      "id": "Q2",
+      "category": "policy",
+      "text": "H1B application process 2025?",
+      "priority": "high",
+      "search_keywords": [
+        "H1B visa",
+        "application",
+        "process",
+        "2025",
+        "changes"
+      ]
+    },
+    {
+      "id": "Q3",
+      "category": "policy",
+      "text": "H1B approval rates 2025?",
+      "priority": "high",
+      "search_keywords": [
+        "H1B visa",
+        "approval rate",
+        "2025",
+        "statistics"
+      ]
+    },
+    {
+      "id": "Q4",
+      "category": "policy",
+      "text": "H1B wage requirements 2025?",
+      "priority": "medium",
+      "search_keywords": [
+        "H1B visa",
+        "wage",
+        "requirements",
+        "2025",
+        "salary"
+      ]
+    },
+    {
+      "id": "Q5",
+      "category": "impacts",
+      "text": "H1B impact on US economy 2025?",
+      "priority": "medium",
+      "search_keywords": [
+        "H1B visa",
+        "economic impact",
+        "US",
+        "2025"
+      ]
+    },
+    {
+      "id": "Q6",
+      "category": "stakeholders",
+      "text": "H1B visa employer concerns 2025?",
+      "priority": "medium",
+      "search_keywords": [
+        "H1B visa",
+        "employers",
+        "concerns",
+        "2025",
+        "challenges"
+      ]
+    },
+    {
+      "id": "Q7",
+      "category": "other",
+      "text": "H1B visa future predictions 2025?",
+      "priority": "low",
+      "search_keywords": [
+        "H1B visa",
+        "future",
+        "predictions",
+        "2025",
+        "forecast"
+      ]
+    }
+  ]
+}
