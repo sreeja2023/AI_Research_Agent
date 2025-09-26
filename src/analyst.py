@@ -1,4 +1,3 @@
-# analyst 
 """
 Step 3: Analyst — Extract findings & contradictions
 """
