@@ -10,7 +10,7 @@ from langchain.chains import LLMChain
 
 load_dotenv()
 
-def writer(findings, contradictions, model="gemini-1.5-flash"):
+def writer(findings, contradictions, model="gemini-2.5-flash"):
     api_key = os.getenv("GEMINI_API_KEY")
     if not api_key:
         raise RuntimeError("❌ GEMINI_API_KEY not set in .env")
